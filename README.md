@@ -1,2 +1,2 @@
 # HASX9
-Highly available system management
+highly available systems management tool
